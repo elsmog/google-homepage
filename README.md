@@ -1,0 +1,1 @@
+This is my first attempt at deconstructing an existing website using developer tools, started 9/23/19.
