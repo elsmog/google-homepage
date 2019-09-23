@@ -1,3 +1,43 @@
+nav {
+    padding: 10px;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    
+}
+  
+li {
+    display:inline;
+    padding: 5px;
+}
+
+li a {
+    
+    color: black;
+    font-family: sans-serif;
+    font-size: smaller;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+  
+a:visited {
+    text-decoration: none;
+}
+  
+a:hover {
+    text-decoration: underline;
+}
+  
+a:active {
+    text-decoration: underline;
+}
+
 .center {
     display: block;
     margin-left: auto;
@@ -8,5 +48,10 @@
 .box {
     width: 100%;
     text-align:center;
-    -webkit-appearance: none;
 }
+
+img {
+     margin-top: 50px;
+     margin-bottom: 10px;
+
+ }
