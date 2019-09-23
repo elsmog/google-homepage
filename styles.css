@@ -5,12 +5,8 @@
     width: 50%;
 }
 
-.topnav {
-    background-color: #ffffff; 
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
- .topnav input[type=text] {
-      border: 1px solid #ccc;
+.box {
+    width: 100%;
+    text-align:center;
+    -webkit-appearance: none;
 }
